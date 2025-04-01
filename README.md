@@ -1,5 +1,5 @@
 # Power-BI
-This is an interactive Power BI dashboard containing the World GDP and Adidas Sales.
+This is an interactive Power BI dashboard containing the World GDP, Adidas Sales and Hospital Attrition Rate.
 
 The dataset were adopted from Kaggle:
 1. https://www.kaggle.com/datasets/willianoliveiragibin/world-gdp-by-country-region-and-income-group/ --World GDP
